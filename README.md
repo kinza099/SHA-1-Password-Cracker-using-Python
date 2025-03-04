@@ -35,8 +35,8 @@ No external dependencies are required.
 
 1. **Clone the Repository** (or download the script):
    ```sh
-   git clone https://github.com/kinza099/sha1-password-cracker.git
-   cd sha1-password-cracker
+   git clone https://github.com/kinza099/SHA-1-Password-Cracker-using-Python.git
+   cd SHA-1-Password-Cracker-using-Python
    ```
 
 2. **Prepare the Required Files**:
